@@ -67,17 +67,33 @@ export const projects = [
   },
 ];
 
-export const internship = {
-  role: "Machine Learning Intern",
-  company: "Mainflow Services and Technologies",
-  dates: "Apr 2025 – Jun 2025",
-  points: [
-    "Collaborated on client-focused machine learning projects involving model development and deployment.",
-    "Tracked, containerized and deployed ML models using MLflow and Docker with CI/CD automation.",
-    "Integrated scalable ML solutions using cloud infrastructure.",
-  ],
-  tools: ["Machine Learning", "Deep Learning", "MLflow", "Docker", "AWS", "Azure", "MLOps", "CI/CD Pipelines"],
-};
+export const internships = [
+  {
+    role: "Machine Learning Intern",
+    company: "Mainflow Services and Technologies",
+    dates: "Apr 2025 – Jun 2025",
+    points: [
+      "Collaborated on client-focused machine learning projects involving model development and deployment.",
+      "Tracked, containerized and deployed ML models using MLflow and Docker with CI/CD automation.",
+      "Integrated scalable ML solutions using cloud infrastructure.",
+    ],
+    tools: ["Machine Learning", "Deep Learning", "MLflow", "Docker", "AWS", "Azure", "MLOps", "CI/CD Pipelines"],
+  },
+  {
+    role: "Data Analyst Intern",
+    company: "Bluestock.in",
+    dates: "20 June 2026 - 20 Aug 2026",
+    points: [
+      "Analyzed and interpreted complex datasets to provide actionable insights for business decision-making.",
+      "Developed and maintained dashboards and reports to visualize key performance indicators (KPIs) and trends.",
+      "Collaborated with cross-functional teams to identify data requirements and implement data-driven solutions.",
+      "Utilized statistical techniques and data mining methods to identify patterns and correlations within large datasets.",
+      "Assisted in the development and implementation of data collection processes and data quality assurance measures.",
+    ],
+    tools: ["Python", "SQL", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Microsoft Excel", "Power BI", "Jupyter Notebook"],
+  },
+];
+
 
 export const certifications = [
   { title: "Python Essentials 1", issuer: "Cisco Networking Academy", url: "https://drive.google.com/file/d/1yzGeY8knPMIZ3xvPBBz6b-pII_sYqPii/view" },
