@@ -84,11 +84,11 @@ export const internships = [
     company: "Bluestock.in",
     dates: "20 June 2026 - 20 Aug 2026",
     points: [
-      "Analyzed and interpreted complex datasets to provide actionable insights for business decision-making.",
-      "Developed and maintained dashboards and reports to visualize key performance indicators (KPIs) and trends.",
-      "Collaborated with cross-functional teams to identify data requirements and implement data-driven solutions.",
-      "Utilized statistical techniques and data mining methods to identify patterns and correlations within large datasets.",
-      "Assisted in the development and implementation of data collection processes and data quality assurance measures.",
+    "Analyzed data to identify patterns and generate meaningful business insights.",
+    "Worked with data to support analytical tasks and data-driven decision-making.",
+    "Gained exposure to financial data analysis and fintech business operations.",
+    "Applied analytical thinking and problem-solving skills to data-related tasks.",
+    "Developed professional skills in communication, attention to detail, and remote collaboration."
     ],
     tools: ["Python", "SQL", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Microsoft Excel", "Power BI", "Jupyter Notebook"],
   },
